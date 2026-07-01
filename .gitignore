@@ -1,4 +1,3 @@
+__pycache__/
+sandbox_temp/
 .env
-.venv
-__pycache__
-*.pyc
