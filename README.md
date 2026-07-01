@@ -76,8 +76,8 @@ API keys and tokens never get committed to Git. The `.gitignore` excludes `.env`
 ## Running Locally
 ```bash
 # Clone the repo
-git clone https://github.com/tumer217/multi-agent-system.git
-cd multi-agent-system
+git clone https://github.com/tumer217/Multi-agent-system.git
+cd Multi-agent-system
 
 # Create virtual environment
 python -m venv .venv
@@ -100,7 +100,7 @@ python workflow.py
 
 ## Project Structure
 ```
-multi-agent-system/
+Multi-agent-system/
 ├── code_reader_agent.py    # Agent 1: Analyzes code for bugs
 ├── planner_agent.py        # Agent 2: Plans the fix, classifies complexity
 ├── research_agent.py       # Explores codebase for complex bugs
